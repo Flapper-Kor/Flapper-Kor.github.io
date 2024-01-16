@@ -6,9 +6,5 @@ title: Flapper
 description: Flapper 개발 블로그
 google_analytics:
 
-
-defaults:
-  - scope:
-      path: "assets/img"
-    values:
-      image: true
+url: "http://blog.jaeyoon.io"
+baseurl: "my-baseurl"
