@@ -7,4 +7,4 @@ description: Flapper 개발 블로그
 google_analytics:
 
 
-baseurl: "docs"
+# baseurl: "docs"
