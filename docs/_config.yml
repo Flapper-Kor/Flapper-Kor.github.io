@@ -7,8 +7,8 @@ description: Flapper 개발 블로그
 google_analytics:
 
 
-# defaults:
-#   - scope:
-#       path: "assets/img"
-#     values:
-#       image: true
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
